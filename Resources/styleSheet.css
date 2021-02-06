@@ -1,0 +1,82 @@
+#MainFram{
+    background-color: #303A52;
+    border-radius: 10px;
+    }
+
+QFrame{
+    background-color: none;
+    border: none;
+    }
+
+QPushButton{
+    border: 0px;
+    }
+
+QLineEdit{
+    background-color: rgba(255,255,255,5);
+    font: italic 22pt "DejaVu Serif";
+    color: white;
+    font-size: 52px;
+    border: 0px;
+    }
+
+#KeyBord{
+    border-radius: 25px;
+    color: white;
+    font: italic 22pt "DejaVu Serif";
+    }
+
+#KeyBord:pressed{
+    background-color: #4E5F88;
+    }
+
+#KeyBordSympol{
+    border-radius: 25px;
+    color: #799FFC;
+    font: italic 22pt "DejaVu Serif";
+    }
+
+#KeyBordSympol:pressed{
+    background-color: #295462; 
+    }
+
+#minimize_btn{
+    border: 0px;
+    border-radius: 7px;
+    background-color: #76FF03; 
+    }
+
+#minimize_btn:hover{
+    border:2px solid #284510;
+    }
+
+#minimize_btn:pressed{
+    background-color: #3B8903;
+    }
+
+#restor_btn{
+    border-radius: 7px; 
+    background-color: #EF6C00; 
+    }
+
+#restor_btn:hover{
+    border:2px solid #46270C; 
+    }
+
+#restor_btn:pressed{
+    background-color: #9C4300; 
+    }
+
+#close_btn{
+    border-radius: 7px; 
+    background-color: #C90000;
+    }
+
+#close_btn:hover{
+    border:2px solid #601111;
+    }
+
+#close_btn:pressed{
+    background-color: #7D000C;
+    }
+
