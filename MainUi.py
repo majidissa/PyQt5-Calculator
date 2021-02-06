@@ -1,8 +1,8 @@
-#  +======< Calculator Application With Python And PyQt5 liberarry >==========+
-#  |    By: Majid Issa                                                        |
-#  |    Email: majidissa82@outlook.ccom                                       |
-#  |    copy rghits: © 2020 2021                                              |
-#  +==========================================================================+
+#======< Calculator Application With Python And PyQt5 liberarry >==========+
+#    By: Majid Issa                                                        |
+#                                                                          |
+#    copy rghits: © 2020 2021                                              |
+#==========================================================================+
 
 from PyQt5.QtCore import QSize ,Qt
 from PyQt5.QtWidgets import QFrame ,QWidget ,QVBoxLayout ,QHBoxLayout ,QGridLayout ,QSpacerItem ,QSizePolicy ,QPushButton ,QLineEdit
