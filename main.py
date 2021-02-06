@@ -1,3 +1,14 @@
+'''
+calculator application 
+calculator app with python and pyqt5
+
++=========================================+
+| By       : Majid Isss                   |
+| Email    : majidissa82@outlook.com      |
+| WhatsApp : +201017398758                |
++=========================================+
+'''
+
 from PyQt5.QtCore import QSize ,Qt ,QMetaObject ,QCoreApplication ,QRect ,QPoint
 from PyQt5.QtWidgets import (QMainWindow ,QApplication ,QVBoxLayout ,QHBoxLayout ,QScrollArea ,QFrame ,QLabel ,QPushButton ,QWidget)
 from PyQt5.QtGui import QIcon
